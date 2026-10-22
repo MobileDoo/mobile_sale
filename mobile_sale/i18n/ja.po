@@ -1,0 +1,53 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mobile_sale
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0-20260908\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-06 11:10+0000\n"
+"PO-Revision-Date: 2026-10-06 11:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+"Language: ja_JP\n"
+
+#. module: mobile_sale
+#. odoo-python
+#: code:addons/mobile_sale/models/mobile_sale_service.py:0
+#, python-format
+msgid "Quotation cancelled"
+msgstr "見積が取り消されました"
+
+#. module: mobile_sale
+#. odoo-python
+#: code:addons/mobile_sale/models/mobile_sale_service.py:0
+#, python-format
+msgid "Quotation confirmed"
+msgstr "見積が確定されました"
+
+#. module: mobile_sale
+#. odoo-python
+#: code:addons/mobile_sale/models/mobile_dashboard.py:0
+#, python-format
+msgid "Quotations to confirm"
+msgstr "確定待ちの見積"
+
+#. module: mobile_sale
+#. odoo-python
+#: code:addons/mobile_sale/models/mobile_dashboard.py:0
+#, python-format
+msgid "Sales this month"
+msgstr "今月の売上"
+
+#. module: mobile_sale
+#. odoo-python
+#: code:addons/mobile_sale/models/mobile_dashboard.py:0
+#, python-format
+msgid "Sales today"
+msgstr "本日の売上"
